@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodcarz10" alt="rodcarz10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rodcarz10" target="black"><img src="https://img.shields.io/twitter/follow/rodcarz10?logo=twitter&style=for-the-badge" alt="rodcarz10" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rodcarz10" target="dark"><img src="https://img.shields.io/twitter/follow/rodcarz10?logo=twitter&style=for-the-badge" alt="rodcarz10" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS and Python**
 
