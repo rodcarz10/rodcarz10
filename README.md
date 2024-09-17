@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Cars**
 
-- 📫 How to reach me **rodcarbet@gmail.com**
+- 📫 How to reach me **rodcarz@proton.me**
 
 - ⚡ Fun fact **professional idiot**
 
