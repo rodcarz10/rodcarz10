@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **HTML, CSS and Python**
 
-- 💬 Ask me about **Cars**
-
 - 📫 How to reach me **rodcarz@proton.me**
 
 - ⚡ Fun fact **professional idiot**
